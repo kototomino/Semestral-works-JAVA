@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GUI
+comment0.text=\r\n\ Trieda\ v\ ktorej\ sa\ vytvor\u00ED\ pi\u0161kvorkov\u00E9\ pole\ pomocou\ JButton(ov).\r\n\ V\ tejto\ triede\ okrem\ na\u010D\u00EDtania\ dan\u00E9ho\ rozmerov\u00E9ho\ po\u013Ea\ je\ mo\u017En\u00E9\ aj\ zapisova\u0165\ jednotliv\u00E9\ \u0165ahy\ pomocou\ met\u00F3dy\ setTlacitko().\r\n\ Met\u00F3da\ ulozHru(String\ nazovSuboru)\ funguje\ na\ princ\u00EDpe\ ulo\u017Eenie\ danej\ rozohratej\ hry\ do\ textov\u00E9ho\ s\u00FAboru.\r\n\ V\ s\u00FAbore\ sa\ nach\u00E1dzaj\u00FA\ inform\u00E1cie\ o\ ulo\u017Eenom\ stave\ hry\ t.j\ rozmiestnenie\ X\ O\ ko\u013Eko\ bolo\ vykonan\u00FDch\ \u0165ahov\ a\ kto\ je\ na\ \u0165ahu.\r\n\ Met\u00F3da\ nacitajMinuluHru(String\ nazovSuboru)\ je\ met\u00F3da\ v\ ktorej\ z\ ulo\u017Eenej\ hry\ v\ textovom\ s\u00FAbore\ prevedie\ do\ aktu\u00E1lnej\ hry\ Pi\u0161kvoriek.\r\n\ \r\n\ @author\ Tom\u00E1\u0161\ Kotr\u00EDk\r\n\ @version\ 14.12.2020\r\n
+comment1.params=
+comment1.target=GUI()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GUI\r\n
+comment2.params=nazovSuboru
+comment2.target=GUI(java.lang.String)
+comment3.params=
+comment3.target=void\ vytvorGUI()
+comment4.params=nazovSuboru
+comment4.target=void\ nacitajMinuluHru(java.lang.String)
+comment5.params=nazovSuboru
+comment5.target=void\ ulozHru(java.lang.String)
+comment6.params=
+comment6.target=void\ setTlacitko()
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=8

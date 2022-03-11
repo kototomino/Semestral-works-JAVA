@@ -1,0 +1,3 @@
+Vyhra X = 0
+Vyhra O = 0
+Remiza = 1

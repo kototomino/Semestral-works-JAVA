@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ PI\u0160KVORKY\ HR\u00C1\u010C\ X\ a\ HR\u00C1\u010C\ O,\ HR\u00C1\u010C\ X\ Za\u010D\u00EDna\!\r\n\ \r\n\ Trieda\ Main\ sp\u00FA\u0161\u0165a\ cel\u00FD\ program\ cez\ statick\u00FA\ met\u00F3du\ triedy.\r\n\ \r\n\ Pri\ spusten\u00ED\ statickej\ met\u00F3dy\ sa\ na\u010D\u00EDta\ menu\ kde\ sa\ vyskytuj\u00FA\ tla\u010D\u00EDtka\r\n\ \r\n\ HRAJ,\ ULOZ,\ NACITAJ\ HRU,\ RESETUJ\ STATISTIKU.\r\n\ \r\n\ Tla\u010D\u00EDtko\ ULO\u017D\ je\ na\ za\u010Diatku\ disabled\ kv\u00F4li\ tomu\ \u017Ee\ e\u0161te\ neexistuje\ hra\ na\ ulo\u017Eenie.\r\n\ \r\n\ Tla\u010D\u00EDtko\ Hraj\!\r\n\ \r\n\ Na\ za\u010Diatku\ si\ program\ vyp\u00FDta\ ve\u013Ekos\u0165\ hracej\ plochy\ 3\ -\ 20\r\n\ \r\n\ a\ pokra\u010Duje\ v\ hre\ Pi\u0161kvoriek\ a\u017E\ k\u00FDm\ sa\ nestane\ v\u00FD\u0165az\ X\ alebo\ O.\r\n\ \r\n\ Tla\u010D\u00EDtko\ ULOZ\!\r\n\ \r\n\ Hra\ sa\ ulo\u017E\u00ED\ v\ moment\u00E1lnom\ stave\ do\ s\u00FAboru\ ktor\u00E9ho\ n\u00E1zov\ zad\u00E1\ pou\u017E\u00EDvate\u013E.\r\n\ \r\n\ Tla\u010D\u00EDtko\ NACITAJ\ HRU\!\r\n\ \r\n\ Po\ \u00FAspe\u0161nom\ ulo\u017Een\u00ED\ hry\ toto\ tla\u010D\u00EDtko\ umo\u017E\u0148uje\ dan\u00FA\ hru\ znovu\ nahra\u0165\ a\ pokra\u010Dova\u0165\ v\ nej.\r\n\ \r\n\ Tla\u010D\u00EDtko\ RESETUJ\ STATISTIKU\!\r\n\ \r\n\ Resetuje\ \u0161tatistiku\ v\u00FDhier\ v\ zapisovacom\ s\u00FAbore\ statistikatxt.\r\n\ @TOM\u00C1\u0160\ KOTR\u00CDK\r\n\ @14.12.2020\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=6

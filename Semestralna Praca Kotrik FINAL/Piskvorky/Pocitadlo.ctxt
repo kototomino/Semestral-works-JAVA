@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pocitadlo
+comment0.text=\r\n\ TRIEDA\ PO\u010C\u00CDTADLO\!\r\n\ Jednoduch\u00E1\ trieda\ na\ zapisovanie\ \u0161tatistiky\ do\ s\u00FAboru\ statistika.txt.\r\n\ \r\n\ \r\n\ @TOM\u00C1\u0160\ KOTR\u00CDK\r\n\ @14.12.2020\r\n
+comment1.params=
+comment1.target=Pocitadlo()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Pocitadlo\r\n
+comment2.params=
+comment2.target=void\ uloz()
+comment2.text=\r\n\ Trieda\ ktor\u00E1\ uklad\u00E1\ do\ s\u00FAboru\ dan\u00FD\ stav\ hry\!\r\n
+comment3.params=
+comment3.target=void\ resetuj()
+comment3.text=\r\n\ Resetovanie\ \u0161tatist\u00EDk\ na\ 0\!\r\n
+comment4.params=
+comment4.target=void\ pocitajX()
+comment5.params=
+comment5.target=void\ pocitajO()
+comment6.params=
+comment6.target=void\ pocitajR()
+numComments=7

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Moznosti
+comment0.text=\r\n\ Jednoduch\u00E1\ trieda\ ktor\u00E1\ po\ vyhodnoten\u00ED\ hry\ uk\u00E1\u017Ee\ pomocou\ JOptionPane\ mo\u017Enosti\ pre\r\n\ pokra\u010Dovanie\ hry\ alebo\ jej\ ukon\u010Denie.\r\n\ \r\n\ @author\ Tom\u00E1\u0161\ Kotr\u00EDk\r\n\ @version\ 14.12.2020\r\n
+comment1.params=
+comment1.target=Moznosti()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Moznosti\r\n
+comment2.params=cislo
+comment2.target=void\ showMoznosti(int)
+numComments=3

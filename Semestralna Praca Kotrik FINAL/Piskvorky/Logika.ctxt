@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Logika
+comment0.text=\r\n\ V\ triede\ Logika\ sa\ zapisuj\u00FA\ \u0165ahy,\ ur\u010Duje\ sa\ v\u00FDhern\u00FD\ po\u010Det\ znakov\ a\ kontroluj\u00FA\ sa\ v\u00FDhercovia\ X\ O\ alebo\ Rem\u00EDza.\r\n\ \r\n\ \r\n\ @author\ Tom\u00E1\u0161\ Kotr\u00EDk\r\n\ @version\ 14.12.2020\r\n
+comment1.params=n
+comment1.target=Logika(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Logika\r\n
+comment10.params=x\ y
+comment10.target=int\ getVyherca(int,\ int)
+comment2.params=cislo
+comment2.target=int\ setPocetVyhernychZnakov(int)
+comment3.params=
+comment3.target=int\ getVyhernyPocetZnakov()
+comment4.params=
+comment4.target=int\ getTah()
+comment5.params=
+comment5.target=char\ getAktualnyZnak()
+comment6.params=t
+comment6.target=void\ setTah(int)
+comment7.params=i\ j\ znak
+comment7.target=void\ setPolicko(int,\ int,\ char)
+comment8.params=i\ j
+comment8.target=void\ zapisTah(int,\ int)
+comment9.params=x\ y\ znak
+comment9.target=boolean\ kontrolaVyhercu(int,\ int,\ char)
+numComments=11

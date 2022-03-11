@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Hrac
+comment0.text=\r\n\ Trieda\ v\ ktorej\ sa\ inicializuje\ dan\u00FD\ hr\u00E1\u010D\ X\ ,\ O.\r\n\ \r\n\ @author\ Tom\u00E1\u0161\ Kotr\u00EDk\r\n\ @version\ 14.12.2020\r\n
+comment1.params=paZnak
+comment1.target=Hrac(char)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Hrac\r\n
+comment2.params=
+comment2.target=char\ getZnak()
+numComments=3
